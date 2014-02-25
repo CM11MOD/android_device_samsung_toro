@@ -59,4 +59,6 @@
 
     <!-- Set to true to add links to Cell Broadcast app from Settings and MMS app. -->
     <bool name="config_cellBroadcastAppLinks">true</bool>
+
+    <bool name="config_enableAdbByDefault">true</bool>
 </resources>
